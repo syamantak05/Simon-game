@@ -1,1 +1,1 @@
-A fun memory based game. Created using JavaScript.
+A fun memory based game. Created using jQuery.
